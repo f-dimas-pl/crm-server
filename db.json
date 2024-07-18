@@ -1,0 +1,76 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "name": "Бердюгин Тимофей",
+      "numberPhone": "+375 (29) 3972782",
+      "emailAddress": "berdugin@gmail.com",
+      "product": "course-html",
+      "status": "new",
+      "date": "2024-07-18T21:00:10.176Z"
+    },
+    {
+      "id": 2,
+      "name": "Бабурин Иван",
+      "numberPhone": "+375 (33) 9395184",
+      "emailAddress": "baburin@gmail.com",
+      "product": "course-php",
+      "status": "new",
+      "date": "2024-07-18T21:00:11.327Z"
+    },
+    {
+      "id": 3,
+      "name": "Непша Павел",
+      "numberPhone": "+375 (44) 2804829",
+      "emailAddress": "nepscha@gmail.com",
+      "product": "course-js",
+      "status": "new",
+      "date": "2024-07-18T21:00:11.737Z"
+    },
+    {
+      "id": 4,
+      "name": "Шевченко Владимир",
+      "numberPhone": "+375 (29) 2840037",
+      "emailAddress": "schenschenko@gmail.com",
+      "product": "course-wordpress",
+      "status": "new",
+      "date": "2024-07-18T21:01:36.148Z"
+    },
+    {
+      "id": 5,
+      "name": "Сологубов Артём",
+      "numberPhone": "+375 (44) 9357028",
+      "emailAddress": "sologub@gmail.com",
+      "product": "course-html",
+      "status": "new",
+      "date": "2024-07-18T21:01:36.266Z"
+    },
+    {
+      "id": 6,
+      "name": "Непша Павел",
+      "numberPhone": "+375 (44) 2804829",
+      "emailAddress": "nepscha@gmail.com",
+      "product": "course-js",
+      "status": "new",
+      "date": "2024-07-18T21:01:36.465Z"
+    },
+    {
+      "id": 7,
+      "name": "Замятин Александр",
+      "numberPhone": "+375 (44) 8827382",
+      "emailAddress": "sczamyatin@gmail.com",
+      "product": "course-js",
+      "status": "new",
+      "date": "2024-07-18T21:01:36.742Z"
+    },
+    {
+      "id": 8,
+      "name": "Замятин Александр",
+      "numberPhone": "+375 (44) 8827382",
+      "emailAddress": "sczamyatin@gmail.com",
+      "product": "course-js",
+      "status": "new",
+      "date": "2024-07-18T21:01:36.885Z"
+    }
+  ]
+}
